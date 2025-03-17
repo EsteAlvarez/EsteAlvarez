@@ -1,4 +1,4 @@
-# 💫 Sobre mi:
+# 💫 Sobre mí:
 ¡Hola! Soy un desarrollador frontend especializado en WordPress. Me dedico a crear sitios web optimizados y funcionales, con un enfoque en la personalización de temas y el desarrollo de soluciones a medida.<br>
 
 
